@@ -1,0 +1,6 @@
+
+hello thong an keo!
+you're my love !
+These are the machine independent programming languages, which are easy to write, read, edit and understand. 
+The languages like Java, .Net, Pascal, COBOL, C++, C, C# and other (which are very popular now to develop user end applications). These languages come under the high level programming language category. High level programming languages have some special keywords, functions and class libraries by using them we can easily build a program for the computer. 
+Computer does not understand program written in such languages directly, as I have written above that computer understands only Machine code. So, here programming translators are required to convert a high level program to its equivalent Machine code. Programming translators such as Compilers and Interpreters are the system software’s which converts a program written in particular programming languages to its equivalent Machine code.
